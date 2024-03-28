@@ -7,7 +7,7 @@ Este repositório contém políticas relacionadas à segurança cibernética par
 
 ## Conteúdo
 
-- Documento em PDF detalhando as diretrizes e procedimentos para gestao de risco e garantir a segurança dos sistemas digitais no ambiente.
+- Documento em PDF detalhando as diretrizes e procedimentos para garantir a segurança dos sistemas digitais do ambiente.
 
 ## Uso
 
