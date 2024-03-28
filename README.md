@@ -7,7 +7,7 @@ Este repositório contém políticas relacionadas à segurança cibernética par
 
 ## Conteúdo
 
-- Documento em PDF detalhando as diretrizes e procedimentos para proteger os dados dos pacientes e garantir a segurança dos sistemas digitais no ambiente hospitalar.
+- Documento em PDF detalhando as diretrizes e procedimentos para gestao de risco e garantir a segurança dos sistemas digitais no ambiente.
 
 ## Uso
 
